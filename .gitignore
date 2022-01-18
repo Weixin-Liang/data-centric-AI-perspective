@@ -4,6 +4,11 @@
 *.tar
 *.jpg
 
+data/train 
+data/val 
+data/shapley_val 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
